@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @moulikagrawal
 - 👀 I’m interested in Full Stack Web Development
-- 🌱 I’m currently learning MERN Stack
+- 🌱 I’m currently working on MERN Stack
 - 💞️ I’m looking to collaborate on new and innovative projects
 - 📫 How to reach me - almoulik@gmail.com
 
